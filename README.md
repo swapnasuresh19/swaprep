@@ -9,7 +9,7 @@ I'm Swapnanil Dutta, I'm an engineering student and a to-be developer 👨‍�
 - 🔭 I’m currently working on Web Development and Cloud
 - 🌱 I’m currently learning Python3
 - 💬 Ask me about: tech, memes, Marvel & DC
-- 📫 How to reach me: Any platform you are comfortable, links are above 🔝
+- 📫 How to reach me: Any platform you are comfortable with, links are above 🔝
 - 😄 Pronouns: he/him
 - ⚡ Languages: Java, C, Python3
 
