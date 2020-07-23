@@ -52,5 +52,8 @@
 <a href="https://dev.to/swapnanildutta"><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/blogs/devto.svg" alt="Dev" style="vertical-align:top margin:6px 4px"></a>
 </p>
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swapnanildutta&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p align="center">
+<a href="https://github.com/swapnanildutta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnanildutta&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnanildutta&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Swapnanil's github stats"/>
+</a></p>
