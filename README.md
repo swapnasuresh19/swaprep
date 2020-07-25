@@ -25,7 +25,7 @@
 <a href="https://www.hackerrank.com/swapnanildutta21">
   <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-
+<br></br>
 
 
 #### I'm Swapnanil Dutta, I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about cloud computing, python development and open source. I'm also a photographer📷, footballer⚽️ and internet surfer 🏄‍♂️. 
