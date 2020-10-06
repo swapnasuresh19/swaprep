@@ -55,6 +55,6 @@
 
 <p align="center">
 <a href="https://github.com/swapnanildutta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnanildutta&theme=dark&hide_langs_below=1&hide=c%2B%2B" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnanildutta&theme=dark&hide_langs_below=1&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnanildutta&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Swapnanil's github stats"/>
 </a></p>
