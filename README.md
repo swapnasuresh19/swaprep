@@ -1,4 +1,6 @@
 # Swapnanil Dutta 👋
+![](https://komarev.com/ghpvc/?username=swapnanildutta&color=08bf70&style=flat-square)
+<br></br>
 <a href="https://twitter.com/swapnanildutta1">
   <img align="left" alt="Swapnanil Dutta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
