@@ -1,4 +1,4 @@
-# Swapnanil Dutta 👋
+# Swapnanil Dutta <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=swapnanildutta&color=08bf70&style=flat-square)
 <br></br>
 <a href="https://twitter.com/swapnanildutta1">
