@@ -2,17 +2,17 @@
 
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/swapnanildutta/swapnanildutta/master/assets/gifs/nothing.gif" />
 
-#### I'm Swapnanil Dutta, I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about cloud computing, python development and open source. I'm also a photographer📷, footballer⚽️ and internet surfer 🏄‍♂️.
+I'm Swapnanil Dutta, I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about cloud computing, python development and open source. I'm also a photographer📷, footballer⚽️ and internet surfer 🏄‍♂️.
 
-#### - 🔭 I’m currently working on **Web 🌐** and **Cloud Development ☁**.
+- 🔭 I’m currently working on **Web 🌐** and **Cloud Development ☁**.
 
-#### - 💬 Ask me about: **Tech 👨🏻‍💻**, **Memes 🤣**, **Marvel & DC 🦸‍♂️🦸‍♀️**, **Space 🌌**.
+- 💬 Ask me about: **Tech 👨🏻‍💻**, **Memes 🤣**, **Marvel & DC 🦸‍♂️🦸‍♀️**, **Space 🌌**.
 
-#### - 📫 How to reach me: Keep scrolling and reading, _**you'll know where to find me**_. 😉
+- 📫 How to reach me: Keep scrolling and reading, _**you'll know where to find me**_. 😉
 
-#### - 😄 Pronouns: **He/Him** 👦🏻
+- 😄 Pronouns: **He/Him** 👦🏻
 
-#### - 🛠️ Things I know **How to Use**:
+- 🛠️ Things I know **How to Use**:
 
 <p align="left">
 <code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/languages/java.svg" alt="Java" style="vertical-align:top margin:6px 4px" width="70"></code>
@@ -25,18 +25,18 @@
 <code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/services/google_cloud_platform.svg" alt="Google Cloud Platform" style="vertical-align:top margin:6px 4px" width="70"></code>
 </p>
 
-#### - ✍🏻 Places where I keep **writing about stuffs**:
+- ✍🏻 Places where I keep **writing about stuffs**:
 
 <p align="left">
-<a href="https://swapnanildutta2000.blogspot.com/"><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/blogs/blogger.svg" alt="Blogger" style="vertical-align:top margin:6px 4px" width="70"></a>
-<a href="https://dev.to/swapnanildutta"><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/blogs/devto.svg" alt="Dev" style="vertical-align:top margin:6px 4px" width="70"></a>
-<a href="https://medium.com/@swapnanildutta2000"><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/blogs/medium.svg" alt="Medium" style="vertical-align:top margin:6px 4px" width="70"></a>
+<a href="https://swapnanildutta2000.blogspot.com/"><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/blogs/blogger.svg" alt="Blogger" style="vertical-align:top margin:6px 4px" width="80"></a>
+<a href="https://dev.to/swapnanildutta"><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/blogs/devto.svg" alt="Dev" style="vertical-align:top margin:6px 4px" width="80"></a>
+<a href="https://medium.com/@swapnanildutta2000"><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/blogs/medium.svg" alt="Medium" style="vertical-align:top margin:6px 4px" width="80"></a>
 </p>
 
 <p align="center">
 <a href="https://github.com/swapnanildutta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnanildutta&theme=light&title_color=000&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnanildutta&show_icons=true&theme=default&title_color=000&count_private=true&icon_color=49cc67&text_color=6e6e6e" alt="Swapnanil's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnanildutta&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnanildutta&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="Swapnanil's github stats"/>
 </a></p>
 <br>
 
