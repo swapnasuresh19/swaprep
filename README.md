@@ -5,32 +5,26 @@
 I'm Swapnanil Dutta, I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about cloud computing, python development and open source. I'm also a photographer📷, footballer⚽️ and internet surfer 🏄‍♂️.
 
 - 🔭 I’m currently working on **Web 🌐** and **Cloud Development ☁**.
-
 - 💬 Ask me about: **Tech 👨🏻‍💻**, **Memes 🤣**, **Marvel & DC 🦸‍♂️🦸‍♀️**, **Space 🌌**.
-
 - 📫 How to reach me: Keep scrolling and reading, _**you'll know where to find me**_. 😉
-
 - 😄 Pronouns: **He/Him** 👦🏻
-
 - 🛠️ Things I know **How to Use**:
-
-<p align="left">
-<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/languages/java.svg" alt="Java" style="vertical-align:top margin:6px 4px" width="70"></code>
-<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/languages/python.svg" alt="Python3" style="vertical-align:top margin:6px 4px" width="70"></code>
-<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px" width="70"></code>
-<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top margin:6px 4px" width="70"></code>
-<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/services/aws.svg" alt="AWS" style="vertical-align:top margin:6px 4px" width="70"></code>
-<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/services/azure.svg" alt="Azure" style="vertical-align:top margin:6px 4px" width="70"></code>
-<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/services/dockerhub.svg" alt="Docker" style="vertical-align:top margin:6px 4px" width="70"></code>
-<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/services/google_cloud_platform.svg" alt="Google Cloud Platform" style="vertical-align:top margin:6px 4px" width="70"></code>
+<p align="center">
+<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/languages/java.svg" alt="Java" style="vertical-align:top margin:6px 4px" height="21"></code>
+<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/languages/python.svg" alt="Python3" style="vertical-align:top margin:6px 4px" height="21"></code>
+<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px" height="21"></code>
+<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top margin:6px 4px" height="21"></code>
+<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/services/aws.svg" alt="AWS" style="vertical-align:top margin:6px 4px" height="21"></code>
+<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/services/azure.svg" alt="Azure" style="vertical-align:top margin:6px 4px" height="21"></code>
+<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/services/dockerhub.svg" alt="Docker" style="vertical-align:top margin:6px 4px" height="21"></code>
+<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/services/google_cloud_platform.svg" alt="Google Cloud Platform" style="vertical-align:top margin:6px 4px" height="21"></code>
 </p>
 
 - ✍🏻 Places where I keep **writing about stuffs**:
-
-<p align="left">
-<a href="https://swapnanildutta2000.blogspot.com/"><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/blogs/blogger.svg" alt="Blogger" style="vertical-align:top margin:6px 4px" width="80"></a>
-<a href="https://dev.to/swapnanildutta"><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/blogs/devto.svg" alt="Dev" style="vertical-align:top margin:6px 4px" width="80"></a>
-<a href="https://medium.com/@swapnanildutta2000"><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/blogs/medium.svg" alt="Medium" style="vertical-align:top margin:6px 4px" width="80"></a>
+<p align="center">
+<a href="https://swapnanildutta2000.blogspot.com/"><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/blogs/blogger.svg" alt="Blogger" style="vertical-align:top margin:6px 4px" height="21"></a>
+<a href="https://dev.to/swapnanildutta"><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/blogs/devto.svg" alt="Dev" style="vertical-align:top margin:6px 4px" height="21"></a>
+<a href="https://medium.com/@swapnanildutta2000"><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/blogs/medium.svg" alt="Medium" style="vertical-align:top margin:6px 4px" height="21"></a>
 </p>
 
 <p align="center">
