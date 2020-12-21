@@ -2,11 +2,11 @@
 
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/swapnanildutta/swapnanildutta/master/assets/gifs/nothing.gif" />
 
-I'm Swapnanil Dutta, I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about cloud computing, python development and open source. I'm also a photographer📷, footballer⚽️ and internet surfer 🏄‍♂️.
+I'm Swapnanil Dutta, I'm an engineering student and a to-be developer from India who is passionate about Cloud, Python and Open Source.
 
 - 🔭 I’m currently working on **Web 🌐** and **Cloud Development ☁**.
 - 💬 Ask me about: **Tech 👨🏻‍💻**, **Memes 🤣**, **Marvel & DC 🦸‍♂️🦸‍♀️**, **Space 🌌**.
-- 📫 How to reach me: Keep scrolling and reading, _**you'll know where to find me**_. 😉
+- 📫 How to reach me: Keep reading and scrolling, _**you'll know where to find me**_. 😉
 - 😄 Pronouns: **He/Him** 👦🏻
 - 🛠️ Things I know **How to Use**:
 <p align="center">
