@@ -29,8 +29,8 @@ I'm Swapnanil Dutta, I'm an engineering student and a to-be developer from India
 
 <p align="center">
 <a href="https://github.com/swapnanildutta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnanildutta&theme=vue-dark&bg_color=00000000&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnanildutta&show_icons=true&theme=vue-dark&bg_color=00000000&count_private=true&icon_color=439975&text_color=6e6e6e" alt="Swapnanil's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnanildutta&theme=gotham&bg_color=00000000&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnanildutta&show_icons=true&theme=gotham&bg_color=00000000&count_private=true&icon_color=439975&text_color=6e6e6e" alt="Swapnanil's github stats"/>
 </a></p>
 <br>
 
