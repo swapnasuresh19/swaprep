@@ -12,9 +12,9 @@ I'm Swapnanil Dutta, I'm an engineering student and a to-be developer from India
 <p align="center">
 <code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/languages/java.svg" alt="Java" style="vertical-align:top margin:6px 4px" height="21"></code>
 <code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/languages/python.svg" alt="Python3" style="vertical-align:top margin:6px 4px" height="21"></code>
-<!--><code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px" height="21"></code><-->
+<!--<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px" height="21"></code>-->
 <code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top margin:6px 4px" height="21"></code>
-<!--><code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/services/aws.svg" alt="AWS" style="vertical-align:top margin:6px 4px" height="21"></code><-->
+<!--<code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/services/aws.svg" alt="AWS" style="vertical-align:top margin:6px 4px" height="21"></code>-->
 <code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/services/azure.svg" alt="Azure" style="vertical-align:top margin:6px 4px" height="21"></code>
 <code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/services/dockerhub.svg" alt="Docker" style="vertical-align:top margin:6px 4px" height="21"></code>
 <code><img src="https://github.com/swapnanildutta/swapnanildutta/blob/master/static/dev/services/google_cloud_platform.svg" alt="Google Cloud Platform" style="vertical-align:top margin:6px 4px" height="21"></code>
